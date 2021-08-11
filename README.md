@@ -1,4 +1,4 @@
-# Simple Python Project Template
+# This is a song-recognizing program, it can match a ~7 second noisy clip to a song loaded into its "database"
 
 The basics of creating an installable Python package.
 
